@@ -13,4 +13,12 @@ VHDL:</br>
 2. D filp-flop</br>
 3. binary counter, a shift register, 32-bit adder/subtractor, and other blocks needed for a 32-bit multiplier.</br>
 4. Combine the datapath and the control unit</br>
-course project : A simple version multi-cycle MIPS processor</br>
+course project : A simple version multi-cycle MIPS processor</br></br></br>
+
+
+Concurrent Programing:</br>
+crouse project : Linear cryptanalysis on 16bit substitution-permutation-network (concurrent version and regular version)</br></br></br>
+
+Floor Planner: </br>
+final project : a web based floor planner. support drag & drop of simple logo representation of furniture.
+
